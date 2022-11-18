@@ -1,2 +1,2 @@
 # DFS
-DFS (Depth First Search) Algorithm
+DFS (Depth First Search) Algorithms
